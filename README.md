@@ -199,10 +199,7 @@ src/
 
 ---
 
-## 👨‍💻 Submission Details
+## 👨‍💻 Authors & Credits
 
-- **Position**: Software Engineering Internship (Frontend) — Onsite
-- **Company**: [AppifyDevs](https://appifydevs.com/)
-- **Product Ecosystem**: [EchoGPT](https://echogpt.live/)
-
-_Thank you for reviewing this practical assignment!_
+Developed by Md Majedul Islam.
+Email: mdridoy9902@gmail.com
